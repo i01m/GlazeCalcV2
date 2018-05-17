@@ -1,0 +1,13 @@
+H:\project\VisualStudio\GlazeCalcV2\GlazeCalcV2\bin\Debug\GlazeCalcV2.exe.config
+H:\project\VisualStudio\GlazeCalcV2\GlazeCalcV2\bin\Debug\GlazeCalcV2.exe
+H:\project\VisualStudio\GlazeCalcV2\GlazeCalcV2\bin\Debug\GlazeCalcV2.pdb
+H:\project\VisualStudio\GlazeCalcV2\GlazeCalcV2\obj\Debug\GlazeCalcV2.exe
+H:\project\VisualStudio\GlazeCalcV2\GlazeCalcV2\obj\Debug\GlazeCalcV2.pdb
+H:\project\VisualStudio\GlazeCalcV2\GlazeCalcV2\obj\Debug\GlazeCalcV2.csprojResolveAssemblyReference.cache
+C:\projectDevVm\cSharpProjects\VisualStudio\GlazeCalcV2\GlazeCalcV2\bin\Debug\GlazeCalcV2.exe.config
+C:\projectDevVm\cSharpProjects\VisualStudio\GlazeCalcV2\GlazeCalcV2\bin\Debug\GlazeCalcV2.exe
+C:\projectDevVm\cSharpProjects\VisualStudio\GlazeCalcV2\GlazeCalcV2\bin\Debug\GlazeCalcV2.pdb
+C:\projectDevVm\cSharpProjects\VisualStudio\GlazeCalcV2\GlazeCalcV2\obj\Debug\GlazeCalcV2.csprojResolveAssemblyReference.cache
+C:\projectDevVm\cSharpProjects\VisualStudio\GlazeCalcV2\GlazeCalcV2\obj\Debug\GlazeCalcV2.csproj.CoreCompileInputs.cache
+C:\projectDevVm\cSharpProjects\VisualStudio\GlazeCalcV2\GlazeCalcV2\obj\Debug\GlazeCalcV2.exe
+C:\projectDevVm\cSharpProjects\VisualStudio\GlazeCalcV2\GlazeCalcV2\obj\Debug\GlazeCalcV2.pdb
